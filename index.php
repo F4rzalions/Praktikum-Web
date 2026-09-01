@@ -63,6 +63,7 @@
 
 <body>
     <h1 class="judul">Solo-man Temple</h1>
+    <h2 class="judul">solowija</h2>
 
 
     <div class="container">
